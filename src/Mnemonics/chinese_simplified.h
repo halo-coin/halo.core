@@ -22,7 +22,7 @@
 // WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //
 // Code surrounding the word list is Copyright (c) 2014-2017, The Monero Project
-//                                   Copyright (c) 2017-2018, Adon Network
+//                                   Copyright (c) 2017-2018, Halo Sphere
 //
 // All rights reserved.
 //

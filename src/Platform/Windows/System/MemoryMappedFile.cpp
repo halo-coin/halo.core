@@ -1,4 +1,4 @@
-// Copyright (c) 2018-2019 Adon Network developers 
+// Copyright (c) 2018-2019 Halo Sphere developers 
 // Copyright (c) 2011-2016 The Cryptonote developers
 
 #include "MemoryMappedFile.h"

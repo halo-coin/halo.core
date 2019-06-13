@@ -1,4 +1,4 @@
-## Building Adon Coin
+## Building Halo Coin
 
 ### On *nix:
 

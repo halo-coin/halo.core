@@ -1,4 +1,4 @@
-// Copyright (c) 2018-2019 Adon Network developers 
+// Copyright (c) 2018-2019 Halo Sphere developers 
 // Copyright (c) 2011-2016 The Cryptonote developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -545,7 +545,7 @@ bool processServerAliasResponse(const std::string& response, std::string& addres
 	try {
 
 		// Courtesy of Monero Project
-		auto pos = response.find("oa1:adon");
+		auto pos = response.find("oa1:halo");
 		if (pos == std::string::npos)
 			return false;
 		// search from there to find "recipient_address="

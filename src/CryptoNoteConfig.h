@@ -1,4 +1,4 @@
-// Copyright (c) 2018-2019 Adon Network developers 
+// Copyright (c) 2018-2019 Halo Sphere developers 
 // Copyright (c) 2011-2016 The Cryptonote developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -114,7 +114,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 // const uint64_t MIN_BLOCK_REWARD                              = (UINT64_C(150) * parameters::COIN);
 // const uint64_t REWARD_HALVING_INTERVAL                       = (UINT64_C(11000));
 
-const char     CRYPTONOTE_NAME[]                             = "adon";
+const char     CRYPTONOTE_NAME[]                             = "halo";
 const char     CRYPTONOTE_TICKER[]                           = "ADON";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff000180a8bce1e880bc0b024d940423823cd51fa2351f38f0f999f1ad2e80350ae07944ab8f15728edac9352101a930bd071c6d28bb938e3224b272226c550bc4a381505db82d43b4e9e6140ba8";
 
@@ -151,8 +151,8 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "0000000000000000000000000000000000000000000000000000000011111111";
 
 const std::initializer_list<const char*> SEED_NODES = {
-   "01.seed.adon.network:19900",
-   "02.seed.adon.network:19900"
+   "01.seed.halo.network:19900",
+   "02.seed.halo.network:19900"
 };
 
 struct CheckpointData {
